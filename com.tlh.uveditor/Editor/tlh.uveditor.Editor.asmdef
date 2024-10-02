@@ -1,0 +1,16 @@
+{
+    "name": "tlh.uveditor.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1255951b35daa4ce1bff7a282d9609b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

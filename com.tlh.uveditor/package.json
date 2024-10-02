@@ -1,0 +1,15 @@
+﻿{
+    "name": "com.tlh.uveditor",
+    "version": "1.0.0",
+    "displayName": "UV Editor",
+    "description": "This tool allows you to offset, scale and re-export meshes directly in the editor",
+    "unity": "2023.2",
+    "dependencies": {
+        "com.unity.formats.fbx": "5.1.1"
+    },
+    "author": {
+        "name": "Talha Kuran",
+        "email": "talhakuran@gmail.com",
+        "url": "https://www.linkedin.com/in/talha-kuran-abb176206"
+    }
+}
